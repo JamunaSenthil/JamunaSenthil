@@ -38,16 +38,6 @@ A secure application that combines image steganography and cryptography for prot
 ### 🎓 Student Placement Portal
 A web application that simplifies placement management for students and administrators.
 
-### 🌦 WeatherWise AI
-An intelligent weather forecasting application with modern UI and AI-powered insights.
-
-### 🍔 Food Ordering Website
-A responsive online food ordering platform with an interactive user interface.
-
-### 📡 Rogue Access Point Detector
-A cybersecurity project for detecting rogue Wi-Fi access points and improving network security.
-
----
 
 # 📊 GitHub Stats
 
